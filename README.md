@@ -1,2 +1,2 @@
 # olp
-lời giải của các bài olympic tin học sinh viên
+lời giải của các bài olympic tin học sinh viên khối chuyên tin
